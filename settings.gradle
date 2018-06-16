@@ -1,0 +1,1 @@
+include ':app', ':dynamic_feature', ':instantapp', ':base', ':base', ':instantapp', ':myapplication', ':myapplication22', ':myapplication3', ':myapplication4', ':myapplication5'
